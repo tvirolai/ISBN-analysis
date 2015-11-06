@@ -1,0 +1,23 @@
+{
+  "name": "isbn-analysis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "haku.js",
+  "scripts": {
+    "test": "node haku.js inputfile"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tvirolai/ISBN-analysis.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tvirolai/ISBN-analysis/issues"
+  },
+  "homepage": "https://github.com/tvirolai/ISBN-analysis#readme",
+  "dependencies": {
+    "fs-extra": "^0.26.2",
+    "progress": "^1.1.8"
+  }
+}
